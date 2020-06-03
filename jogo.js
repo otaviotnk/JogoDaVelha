@@ -54,10 +54,10 @@ $(document).ready( function(){
 		var ponto = 0;
 
 		if((rodada % 2) == 1){
-			icone = 'url("imagens/marcacao_1.png")';
+			icone = 'url("marcacao_1.png")';
 			ponto = -1;
 		} else {
-			icone = 'url("imagens/marcacao_2.png")';
+			icone = 'url("marcacao_2.png")';
 			ponto = 1;
 		}
 		
